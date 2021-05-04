@@ -35,6 +35,5 @@ jobs:
            - name: Install node.js packages
              run: npm install
              
-           - name: runtest
-             run: npm run ci:frontend:test
+           
 
